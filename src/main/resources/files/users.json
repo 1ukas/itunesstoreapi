@@ -1,0 +1,23 @@
+[
+  {
+    "userId": 1,
+    "favouriteArtists": []
+  },
+  {
+    "userId": 2,
+    "favouriteArtists": [
+      { "artistId": 372976 },
+      { "artistId": 566867492 }
+    ]
+  },
+  {
+    "userId": 3,
+    "favouriteArtists": [
+      { "artistId": 3296287 }
+    ]
+  },
+  {
+    "userId": 123,
+    "favouriteArtists": []
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "store.url",
+      "type": "java.lang.String",
+      "description": "Base store url for requests."
+    }
+  ] }
